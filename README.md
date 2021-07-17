@@ -14,7 +14,7 @@ This projects implements the use of JavaScript concepts and how they can be used
 ## Built With
 
 - HTML
-- CSS3/SCSS
+- SCSS
 - JavaScript/ES6
 - Webpack
 - momentJs library
